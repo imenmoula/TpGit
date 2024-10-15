@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Contenu venant de la branche actuelle (par exemple, master)
+=======
+Contenu venant de la branche fusionnée (par exemple, feature3)
+>>>>>>> feature3
+
